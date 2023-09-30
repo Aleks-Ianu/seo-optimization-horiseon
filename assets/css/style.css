@@ -19,8 +19,8 @@ h1 {
     display: inline-block;
     font-size: 48px;
 }
-/* removed class and selector */
-.seo {
+/* replaced class and selector with id */
+#seo {
     color: #d9dcd6;
 }
 /* replaced class and div with nav */
