@@ -14,10 +14,9 @@ so THAT our own site is optimized for search engines
 
 ## Usage 
 
+![01-html-css-git-challenge-demo](https://github.com/Aleks-Ianu/seo-optimization-horiseon/assets/110541549/32c8600c-b66f-4189-be69-895fde0afb60)
 
-```md
-![Horiseon Homepage](assets/images/screenshot.png)
-```
+
 
 
 ## License
