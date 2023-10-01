@@ -3,6 +3,8 @@
 ## Description 
 
 This repo has as objective to use Semantic HTML tags and make changes to CSS in order to make the code more concise and clean.
+Live webiste:
+https://aleks-ianu.github.io/seo-optimization-horiseon/ 
 
 ## User Story
 
@@ -15,9 +17,6 @@ so THAT our own site is optimized for search engines
 ## Usage 
 
 ![01-html-css-git-challenge-demo](https://github.com/Aleks-Ianu/seo-optimization-horiseon/assets/110541549/32c8600c-b66f-4189-be69-895fde0afb60)
-
-Live webiste:
-https://aleks-ianu.github.io/seo-optimization-horiseon/ 
 
 
 
