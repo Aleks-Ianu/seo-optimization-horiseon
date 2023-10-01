@@ -3,6 +3,8 @@
 ## Description 
 
 This repo has as objective to use Semantic HTML tags and make changes to CSS in order to make the code more concise and clean.
+
+
 Live webiste:
 https://aleks-ianu.github.io/seo-optimization-horiseon/ 
 
